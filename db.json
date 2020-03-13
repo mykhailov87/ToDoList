@@ -1,11 +1,38 @@
 {
-    "posts": [
-      { "id": 1, "title": "Learn React", "author": "Bogdan" },
-      { "id": 2, "title": "Repeat Learn", "author": "Bogdan" },
-      { "id": 3, "title": "Keep Calm", "author": "Bogdan" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
+  "posts": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "author": "Bogdan"
+    },
+    {
+      "id": 2,
+      "title": "Repeat Learn React",
+      "author": "Bogdan"
+    },
+    {
+      "id": 3,
+      "title": "Keep Calm",
+      "author": "Bogdan"
+    },
+    {
+      "title": "Make ToDo List",
+      "author": "Bogdan",
+      "id": 4
+    },
+    {
+      "title": "Learn Something",
+      "author": "Bogdan",
+      "id": 5
+    },
+    {
+      "title": "Watch Football PSG BVB",
+      "author": "Bogdan",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
   }
+}
